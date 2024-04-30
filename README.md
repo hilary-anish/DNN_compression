@@ -4,3 +4,4 @@
 
 
 1. [Understanding Eigenvalues and Eigenvectors: Enabling Deep Neural Network Compression](https://medium.com/@anishhilary97/understanding-eigenvalues-and-eigenvectors-enabling-deep-neural-network-compression-7adb2ffe83da)
+2. [Brief explanation on Matrix properties : facilitating Eigen & Spectral Decomposition](https://medium.com/@anishhilary97/brief-explanation-on-matrix-properties-facilitating-eigen-spectral-decomposition-d64481f57103)
