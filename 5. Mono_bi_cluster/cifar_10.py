@@ -47,7 +47,8 @@ classes = ('plane', 'car', 'bird', 'cat', 'deer',
 # Model
 print('==> Building model..')
 
-
+#net = Net()
+#net = mono_Net()
 net = bi_cluster_model()
 net = net.to(device)
 
@@ -119,6 +120,9 @@ def test(epoch):
         if not os.path.isdir('checkpoint'):
             os.mkdir('checkpoint')
         torch.save(state, './checkpoint/bicluster_ckpt.pth')
+        #torch.save(state, './checkpoint/mono_ckpt.pth')          'saving after training monochrome model'
+        #torch.save(state, './checkpoint/ckpt.pth')               'saving initial training'
+        
         best_acc = acc
 
 
