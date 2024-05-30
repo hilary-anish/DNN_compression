@@ -42,7 +42,7 @@ class mono_Net(nn.Module):
         x = self.conv1_L(x)
         x = self.pool(F.relu(self.conv1_U(x)))
         x = self.pool(F.relu(self.conv2(x)))
-        x = torch.flatten(x, 1)                                                 # flatten all dimensions except batch
+        x = torch.flatten(x, 1) # flatten all dimensions except batch
         x = F.relu(self.fc1(x))
         x = F.relu(self.fc2(x))
         x = self.fc3(x)
