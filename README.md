@@ -7,3 +7,5 @@
 2. [Brief explanation on Matrix properties : facilitating Eigen & Spectral Decomposition](https://medium.com/@anishhilary97/brief-explanation-on-matrix-properties-facilitating-eigen-spectral-decomposition-d64481f57103)
 3. [How Fast-RCNN uses singular value decomposition(SVD) for fc-layer compression?](https://medium.com/p/63890f4c61b1/edit)
 4. [Low rank Approximation for 4D kernels in Convolutional Neural Networks through SVD](https://medium.com/@anishhilary97/low-rank-approximation-for-4d-kernels-in-convolutional-neural-networks-through-svd-65b30dc55f6b)
+5. [CNN size reduction : Approximating Color Channels and Clustering higher layers.](https://medium.com/@anishhilary97/cnn-size-reduction-approximating-color-channels-and-clustering-higher-layers-feb8fea16b4e)
+6. [CP Decomposition: Approximating Tensors using collection of Vectors](https://medium.com/@anishhilary97/cp-decomposition-approximating-tensors-using-collection-of-vectors-8db6c25f29ab)
